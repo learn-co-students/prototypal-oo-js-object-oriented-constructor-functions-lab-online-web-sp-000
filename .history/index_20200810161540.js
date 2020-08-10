@@ -12,7 +12,7 @@ class Driver{
         this.experience = experience
         }
     }
-// const mike = new Driver("Mike", "28 years", "2 years")
+const mike = new Driver("Mike", "28 years", "2 years")
 const allison = new Driver("Allison", '16 years', "2 years")
 
 class PickupLocation{
